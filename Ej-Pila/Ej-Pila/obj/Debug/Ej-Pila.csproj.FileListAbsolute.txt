@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\Ej-Pila\Ej-Pila\obj\Debug\Ej-Pila.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\Ej-Pila\Ej-Pila\obj\Debug\Ej-Pila.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Ej-Pila\Ej-Pila\bin\Debug\Ej-Pila.exe.config
+C:\Users\Estudiante\source\repos\Ej-Pila\Ej-Pila\bin\Debug\Ej-Pila.exe
+C:\Users\Estudiante\source\repos\Ej-Pila\Ej-Pila\bin\Debug\Ej-Pila.pdb
+C:\Users\Estudiante\source\repos\Ej-Pila\Ej-Pila\obj\Debug\Ej-Pila.exe
+C:\Users\Estudiante\source\repos\Ej-Pila\Ej-Pila\obj\Debug\Ej-Pila.pdb
