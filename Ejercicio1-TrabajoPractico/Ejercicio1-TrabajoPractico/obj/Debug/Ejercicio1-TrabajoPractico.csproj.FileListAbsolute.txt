@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\Ejercicio1-TrabajoPractico\Ejercicio1-TrabajoPractico\bin\Debug\Ejercicio1-TrabajoPractico.exe.config
+C:\Users\Estudiante\source\repos\Ejercicio1-TrabajoPractico\Ejercicio1-TrabajoPractico\bin\Debug\Ejercicio1-TrabajoPractico.exe
+C:\Users\Estudiante\source\repos\Ejercicio1-TrabajoPractico\Ejercicio1-TrabajoPractico\bin\Debug\Ejercicio1-TrabajoPractico.pdb
+C:\Users\Estudiante\source\repos\Ejercicio1-TrabajoPractico\Ejercicio1-TrabajoPractico\obj\Debug\Ejercicio1-TrabajoPractico.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\Ejercicio1-TrabajoPractico\Ejercicio1-TrabajoPractico\obj\Debug\Ejercicio1-TrabajoPractico.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Ejercicio1-TrabajoPractico\Ejercicio1-TrabajoPractico\obj\Debug\Ejercicio1-TrabajoPractico.exe
+C:\Users\Estudiante\source\repos\Ejercicio1-TrabajoPractico\Ejercicio1-TrabajoPractico\obj\Debug\Ejercicio1-TrabajoPractico.pdb
