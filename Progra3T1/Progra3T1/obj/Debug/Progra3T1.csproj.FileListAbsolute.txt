@@ -1,0 +1,7 @@
+C:\Users\Loquillo\source\repos\Progra3T1\Progra3T1\obj\Debug\Progra3T1.csprojAssemblyReference.cache
+C:\Users\Loquillo\source\repos\Progra3T1\Progra3T1\obj\Debug\Progra3T1.csproj.CoreCompileInputs.cache
+C:\Users\Loquillo\source\repos\Progra3T1\Progra3T1\bin\Debug\Progra3T1.exe.config
+C:\Users\Loquillo\source\repos\Progra3T1\Progra3T1\bin\Debug\Progra3T1.exe
+C:\Users\Loquillo\source\repos\Progra3T1\Progra3T1\bin\Debug\Progra3T1.pdb
+C:\Users\Loquillo\source\repos\Progra3T1\Progra3T1\obj\Debug\Progra3T1.exe
+C:\Users\Loquillo\source\repos\Progra3T1\Progra3T1\obj\Debug\Progra3T1.pdb
