@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\PR3-Fibonacci\PR3-Fibonacci\bin\Debug\PR3-Fibonacci.exe.config
+C:\Users\Estudiante\source\repos\PR3-Fibonacci\PR3-Fibonacci\bin\Debug\PR3-Fibonacci.exe
+C:\Users\Estudiante\source\repos\PR3-Fibonacci\PR3-Fibonacci\bin\Debug\PR3-Fibonacci.pdb
+C:\Users\Estudiante\source\repos\PR3-Fibonacci\PR3-Fibonacci\obj\Debug\PR3-Fibonacci.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\PR3-Fibonacci\PR3-Fibonacci\obj\Debug\PR3-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\PR3-Fibonacci\PR3-Fibonacci\obj\Debug\PR3-Fibonacci.exe
+C:\Users\Estudiante\source\repos\PR3-Fibonacci\PR3-Fibonacci\obj\Debug\PR3-Fibonacci.pdb
