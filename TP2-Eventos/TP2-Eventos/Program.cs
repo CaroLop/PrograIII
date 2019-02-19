@@ -10,40 +10,79 @@ namespace TP2_Eventos
     {
         static void Main(string[] args)
         {
-            int n, res=0;
+            int n, res=0,a,b=0;
+            Console.WriteLine("introduzca el valor del stock");
+            a = int.Parse(Console.ReadLine());
             do
             {
-                Console.WriteLine("1.-Incrementar\n2.-Disminuir\n3.-Mostrar\n4.-salir");
+                
+                Console.WriteLine("Menu\n1.-Incrementar\n2.-Disminuir\n3.-Mostrar\n4.-salir");
                 Console.WriteLine("Seleccione una opcion: ");
                 n = int.Parse(Console.ReadLine());
                 Stock st = new Stock();
                 st.Inventario += stockmin;
-                st.Stock = 10;
-                
+                st.Stocks = a;
                 switch(n)
                 {
                     case 1:
-                        res = st.IncrementarI(5);
-                       Console.WriteLine("Incrementado a "+res);
+
+                        if (res > 0 )
+                        {
+                            Console.WriteLine("Introduzca el valor a aumentar");
+                            b = int.Parse(Console.ReadLine());
+                            st.Stocks = res;
+                            res = st.IncrementarI(b);
+                            Console.WriteLine("Incrementado a " + res);
+                        }
+                        else 
+                        {
+                            Console.WriteLine("Introduzca el valor a aumentar");
+                            b = int.Parse(Console.ReadLine());
+                            res = st.Stocks;
+                            res = st.IncrementarI(b);
+                            Console.WriteLine("Incrementado a " + res);
+                        }
                         
-                        Console.ReadKey();
                         break;
                     case 2:
+                        if (res > st.Stocks )
+                        {
+                            Console.WriteLine("Introduzca el valor a disminuir");
+                            b = int.Parse(Console.ReadLine());
+                            st.Stocks = res;
+                            res = st.Disminuir(b);
+                            Console.WriteLine("Disminuido a " + res);
+                        }
                         
-                        Console.WriteLine("Disminuido a " + st.Disminuir(3));
-                        Console.ReadKey();
+                        
+                        else if(res!=0 && res<5 && st.Stocks>=res)
+                        {
+                            Console.WriteLine("Introduzca el valor a disminuir");
+                            b = int.Parse(Console.ReadLine());
+                            st.Stocks = res;
+                            res = st.Disminuir(b);
+                            Console.WriteLine("Disminuido a " + res);
+                        }
+                        else
+                        {
+                            Console.WriteLine("Introduzca el valor a disminuir");
+                            b = int.Parse(Console.ReadLine());
+                            res = st.Stocks;
+                            res = st.Disminuir(b);
+                            Console.WriteLine("Disminuido a " + res);
+                        }
                         break;
                     case 3:
+                        st.Stocks = res;
                         st.Mostrar();
-                        Console.ReadKey();
+                        
                         break;
-                    case 4:
-                        break;
-                }
-                Console.WriteLine("Seleccione una opcion");
-                
-            } while (n!=4);
-            Console.ReadKey();
+
+                }     
+                Console.ReadKey();
+                Console.WriteLine();
+            } while (n<4);
+           
         }
         static void stockmin(int n)
         {
