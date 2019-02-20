@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace E2_Linq
+namespace ELinq_Metodos
 {
     class Persona
     {
@@ -35,6 +35,6 @@ namespace E2_Linq
         public double Altura { get => altura; set => altura = value; }
         public double Peso { get => peso; set => peso = value; }
 
-
+        
     }
 }

@@ -97,24 +97,15 @@ namespace E2_Linq
             }
             Console.WriteLine("5.-");
             var consulpr = from alum in Alumnos
-                          
-                            group alum by alum.Sexo into sexo
-                            select sexo;
+
+                           group alum by alum.Sexo into sexo
+                           select new { Sexo = sexo.Key, Promedio = sexo.Average(p => p.Edad) };
 
             
                 foreach (var groupedades in consulpr)
                {
-                int res = 0;
-                Console.WriteLine(groupedades.Key);
-                foreach (Persona alumno in Alumnos)
-                {
-                  
-                        res = (alumno.Edad + res) ;
-                    
-                }
                 
-                res = res / 5;
-                Console.WriteLine(groupedades.Key + " " + res);
+                Console.WriteLine(groupedades.Sexo + " => " + groupedades.Promedio);
             }
                
 
