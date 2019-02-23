@@ -18,32 +18,58 @@ namespace TP2_Eventos
                 n = int.Parse(Console.ReadLine());
                 Stock st = new Stock();
                 st.Inventario += stockmin;
-                st.Stock = 10;
+                st.Stocks = 10;
                 
                 switch(n)
                 {
                     case 1:
-                        res = st.IncrementarI(5);
-                       Console.WriteLine("Incrementado a "+res);
+
+                        if (res !=0)
+                        {
+                            st.Stocks = res;
+                            res = st.IncrementarI(5);
+                            Console.WriteLine("Incrementado a " + res);
+                        }
+
+                        else 
+                        {
+                            res = st.Stocks;
+                            res = st.IncrementarI(5);
+                            Console.WriteLine("Incrementado a " + res);
+                        }
                         
-                        Console.ReadKey();
                         break;
                     case 2:
-                        
-                        Console.WriteLine("Disminuido a " + st.Disminuir(3));
-                        Console.ReadKey();
+                        if (res > st.Stocks)
+                        {
+                            st.Stocks = res;
+                            res = st.Disminuir(3);
+
+                            Console.WriteLine("Disminuido a " + res);
+                        }
+                        else
+                        {
+                            res = st.Stocks;
+                            res = st.Disminuir(3);
+
+                            Console.WriteLine("Disminuido a " + res);
+                        }
+                       
                         break;
                     case 3:
+                        st.Stocks = res;
                         st.Mostrar();
-                        Console.ReadKey();
+                        
                         break;
-                    case 4:
-                        break;
-                }
-                Console.WriteLine("Seleccione una opcion");
-                
-            } while (n!=4);
-            Console.ReadKey();
+                  
+                   
+                }     
+                       
+               
+                Console.ReadKey();
+
+            } while (n<4);
+           
         }
         static void stockmin(int n)
         {

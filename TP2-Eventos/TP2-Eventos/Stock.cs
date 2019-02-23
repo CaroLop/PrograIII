@@ -10,38 +10,39 @@ namespace TP2_Eventos
     {
         private int stock;
 
-        public int Stock { get => stock; set => stock = value; }
+        public int Stocks { get => stock; set => stock = value; }
 
         public delegate void MDStock(int n);
         public event MDStock Inventario;
         public int IncrementarI(int n)
         {
             int sum = 0;
-            Stock += sum;
-        if(Stock<=5 && Inventario!=null)
+            Stocks += sum;
+        if(Stocks<5 && Inventario!=null)
             {      
                 Inventario(sum);
             }
-            return Stock+n;
+            return Stocks=Stocks+n;
         }
         public int Disminuir(int n)
         {
             int res = 0;
-            Stock -= res;
-            if (n > Stock)
+            Stocks -= res;
+            if (n > Stocks)
             {
                 Console.WriteLine("La disminucion es menor al stock");
-                if (Stock <= 5 && Inventario != null)
+                if (Stocks< 5 && Inventario != null)
                 {
                     Inventario(res);
                 }
             }
-            return Stock-n;
+            return Stocks=Stocks-n;
         }
         public void Mostrar()
         {
-            Console.WriteLine("Stock: "+Stock);
+            Console.WriteLine("Stock: "+Stocks);
         }
+        
 
     }
 }
