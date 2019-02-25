@@ -1,0 +1,14 @@
+C:\Users\Estudiante\PrograIII\E2-Linq\E2-Linq\bin\Debug\E2-Linq.exe.config
+C:\Users\Estudiante\PrograIII\E2-Linq\E2-Linq\bin\Debug\E2-Linq.exe
+C:\Users\Estudiante\PrograIII\E2-Linq\E2-Linq\bin\Debug\E2-Linq.pdb
+C:\Users\Estudiante\PrograIII\E2-Linq\E2-Linq\obj\Debug\E2-Linq.csprojAssemblyReference.cache
+C:\Users\Estudiante\PrograIII\E2-Linq\E2-Linq\obj\Debug\E2-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\PrograIII\E2-Linq\E2-Linq\obj\Debug\E2-Linq.exe
+C:\Users\Estudiante\PrograIII\E2-Linq\E2-Linq\obj\Debug\E2-Linq.pdb
+C:\Users\Loquillo\PrograIII\E2-Linq\E2-Linq\bin\Debug\E2-Linq.exe.config
+C:\Users\Loquillo\PrograIII\E2-Linq\E2-Linq\bin\Debug\E2-Linq.exe
+C:\Users\Loquillo\PrograIII\E2-Linq\E2-Linq\bin\Debug\E2-Linq.pdb
+C:\Users\Loquillo\PrograIII\E2-Linq\E2-Linq\obj\Debug\E2-Linq.csprojAssemblyReference.cache
+C:\Users\Loquillo\PrograIII\E2-Linq\E2-Linq\obj\Debug\E2-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Loquillo\PrograIII\E2-Linq\E2-Linq\obj\Debug\E2-Linq.exe
+C:\Users\Loquillo\PrograIII\E2-Linq\E2-Linq\obj\Debug\E2-Linq.pdb
