@@ -5,3 +5,10 @@ C:\Users\Estudiante\source\repos\ELinq-Metodos\ELinq-Metodos\obj\Debug\ELinq-Met
 C:\Users\Estudiante\source\repos\ELinq-Metodos\ELinq-Metodos\obj\Debug\ELinq-Metodos.csproj.CoreCompileInputs.cache
 C:\Users\Estudiante\source\repos\ELinq-Metodos\ELinq-Metodos\obj\Debug\ELinq-Metodos.exe
 C:\Users\Estudiante\source\repos\ELinq-Metodos\ELinq-Metodos\obj\Debug\ELinq-Metodos.pdb
+C:\Users\Loquillo\PrograIII\ELinq-Metodos\ELinq-Metodos\bin\Debug\ELinq-Metodos.exe.config
+C:\Users\Loquillo\PrograIII\ELinq-Metodos\ELinq-Metodos\bin\Debug\ELinq-Metodos.exe
+C:\Users\Loquillo\PrograIII\ELinq-Metodos\ELinq-Metodos\bin\Debug\ELinq-Metodos.pdb
+C:\Users\Loquillo\PrograIII\ELinq-Metodos\ELinq-Metodos\obj\Debug\ELinq-Metodos.csprojAssemblyReference.cache
+C:\Users\Loquillo\PrograIII\ELinq-Metodos\ELinq-Metodos\obj\Debug\ELinq-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Loquillo\PrograIII\ELinq-Metodos\ELinq-Metodos\obj\Debug\ELinq-Metodos.exe
+C:\Users\Loquillo\PrograIII\ELinq-Metodos\ELinq-Metodos\obj\Debug\ELinq-Metodos.pdb

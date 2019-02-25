@@ -21,11 +21,29 @@ namespace TP2_Eventos
                 n = int.Parse(Console.ReadLine());
                 Stock st = new Stock();
                 st.Inventario += stockmin;
+<<<<<<< HEAD
+                st.Stocks = 10;
+                
+=======
                 st.Stocks = a;
+>>>>>>> a05a6c2b9cadb567bd40d27fbeced37ae7bf627f
                 switch(n)
                 {
                     case 1:
 
+<<<<<<< HEAD
+                        if (res !=0)
+                        {
+                            st.Stocks = res;
+                            res = st.IncrementarI(5);
+                            Console.WriteLine("Incrementado a " + res);
+                        }
+
+                        else 
+                        {
+                            res = st.Stocks;
+                            res = st.IncrementarI(5);
+=======
                         if (res > 0 )
                         {
                             Console.WriteLine("Introduzca el valor a aumentar");
@@ -40,11 +58,19 @@ namespace TP2_Eventos
                             b = int.Parse(Console.ReadLine());
                             res = st.Stocks;
                             res = st.IncrementarI(b);
+>>>>>>> a05a6c2b9cadb567bd40d27fbeced37ae7bf627f
                             Console.WriteLine("Incrementado a " + res);
                         }
                         
                         break;
                     case 2:
+<<<<<<< HEAD
+                        if (res > st.Stocks)
+                        {
+                            st.Stocks = res;
+                            res = st.Disminuir(3);
+
+=======
                         if (res > st.Stocks )
                         {
                             Console.WriteLine("Introduzca el valor a disminuir");
@@ -61,26 +87,46 @@ namespace TP2_Eventos
                             b = int.Parse(Console.ReadLine());
                             st.Stocks = res;
                             res = st.Disminuir(b);
+>>>>>>> a05a6c2b9cadb567bd40d27fbeced37ae7bf627f
                             Console.WriteLine("Disminuido a " + res);
                         }
                         else
                         {
+<<<<<<< HEAD
+                            res = st.Stocks;
+                            res = st.Disminuir(3);
+
+                            Console.WriteLine("Disminuido a " + res);
+                        }
+                       
+=======
                             Console.WriteLine("Introduzca el valor a disminuir");
                             b = int.Parse(Console.ReadLine());
                             res = st.Stocks;
                             res = st.Disminuir(b);
                             Console.WriteLine("Disminuido a " + res);
                         }
+>>>>>>> a05a6c2b9cadb567bd40d27fbeced37ae7bf627f
                         break;
                     case 3:
                         st.Stocks = res;
                         st.Mostrar();
                         
                         break;
+<<<<<<< HEAD
+                  
+                   
+                }     
+                       
+               
+                Console.ReadKey();
+
+=======
 
                 }     
                 Console.ReadKey();
                 Console.WriteLine();
+>>>>>>> a05a6c2b9cadb567bd40d27fbeced37ae7bf627f
             } while (n<4);
            
         }

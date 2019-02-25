@@ -30,6 +30,14 @@ namespace TP2_Eventos
             Stocks -= res;
             if (n > Stocks)
             {
+<<<<<<< HEAD
+                Console.WriteLine("La disminucion es menor al stock");
+                if (Stocks< 5 && Inventario != null)
+                {
+                    Inventario(res);
+                }
+            }
+=======
                 Console.WriteLine("La disminucion es menor al stock, No se puede disminuir esa cantidad");
                 
             }
@@ -37,11 +45,16 @@ namespace TP2_Eventos
             {
                 Inventario(res);
             }
+>>>>>>> a05a6c2b9cadb567bd40d27fbeced37ae7bf627f
             return Stocks=Stocks-n;
         }
         public void Mostrar()
         {
+<<<<<<< HEAD
+            Console.WriteLine("Stock: "+Stocks);
+=======
             Console.WriteLine("Stock actual: "+Stocks);
+>>>>>>> a05a6c2b9cadb567bd40d27fbeced37ae7bf627f
         }
         
 
