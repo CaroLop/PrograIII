@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\MetodoSeleccion\MetodoSeleccion\bin\Debug\MetodoSeleccion.exe.config
+C:\Users\Estudiante\source\repos\MetodoSeleccion\MetodoSeleccion\bin\Debug\MetodoSeleccion.exe
+C:\Users\Estudiante\source\repos\MetodoSeleccion\MetodoSeleccion\bin\Debug\MetodoSeleccion.pdb
+C:\Users\Estudiante\source\repos\MetodoSeleccion\MetodoSeleccion\obj\Debug\MetodoSeleccion.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\MetodoSeleccion\MetodoSeleccion\obj\Debug\MetodoSeleccion.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\MetodoSeleccion\MetodoSeleccion\obj\Debug\MetodoSeleccion.exe
+C:\Users\Estudiante\source\repos\MetodoSeleccion\MetodoSeleccion\obj\Debug\MetodoSeleccion.pdb
