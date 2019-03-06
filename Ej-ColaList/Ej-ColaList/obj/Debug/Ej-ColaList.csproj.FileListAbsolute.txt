@@ -1,0 +1,7 @@
+C:\Users\Loquillo\source\repos\Ej-ColaList\Ej-ColaList\bin\Debug\Ej-ColaList.exe.config
+C:\Users\Loquillo\source\repos\Ej-ColaList\Ej-ColaList\bin\Debug\Ej-ColaList.exe
+C:\Users\Loquillo\source\repos\Ej-ColaList\Ej-ColaList\bin\Debug\Ej-ColaList.pdb
+C:\Users\Loquillo\source\repos\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.csprojAssemblyReference.cache
+C:\Users\Loquillo\source\repos\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.csproj.CoreCompileInputs.cache
+C:\Users\Loquillo\source\repos\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.exe
+C:\Users\Loquillo\source\repos\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.pdb
