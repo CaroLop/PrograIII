@@ -1,7 +1,0 @@
-C:\Users\Estudiante\source\repos\Ej-Cola\Ej-Cola\bin\Debug\Ej-Cola.exe.config
-C:\Users\Estudiante\source\repos\Ej-Cola\Ej-Cola\bin\Debug\Ej-Cola.exe
-C:\Users\Estudiante\source\repos\Ej-Cola\Ej-Cola\bin\Debug\Ej-Cola.pdb
-C:\Users\Estudiante\source\repos\Ej-Cola\Ej-Cola\obj\Debug\Ej-Cola.csprojAssemblyReference.cache
-C:\Users\Estudiante\source\repos\Ej-Cola\Ej-Cola\obj\Debug\Ej-Cola.csproj.CoreCompileInputs.cache
-C:\Users\Estudiante\source\repos\Ej-Cola\Ej-Cola\obj\Debug\Ej-Cola.exe
-C:\Users\Estudiante\source\repos\Ej-Cola\Ej-Cola\obj\Debug\Ej-Cola.pdb

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ej_ColaList
+namespace Ej_ColaCircular
 {
     class Program
     {
@@ -12,8 +12,8 @@ namespace Ej_ColaList
         {
             Boolean Salir = false;
             int opcion = 4, a = 0;
-            Cola<int> P = new Cola<int>();
-            while(Salir==false)
+            ColaCircular<int> P = new ColaCircular<int>();
+            while (Salir == false)
             {
                 Console.Clear();
                 Console.WriteLine("1. Insertar");
@@ -21,7 +21,7 @@ namespace Ej_ColaList
                 Console.WriteLine("3. Mostrar");
                 Console.WriteLine("4. Salir");
                 opcion = int.Parse(Console.ReadLine());
-                switch(opcion)
+                switch (opcion)
                 {
                     case 1:
                         Console.WriteLine("Introduzca un numero");
@@ -31,19 +31,21 @@ namespace Ej_ColaList
                     case 2:
                         a = P.Pop();
                         Console.WriteLine("Eliminado: " + a);
+                        Console.ReadKey();
                         break;
                     case 3:
                         P.Mostrar();
-                        Console.WriteLine();
+                        
+                        Console.ReadKey();
                         break;
                     case 4:
                         Salir = true;
                         break;
                 }
-                Console.ReadKey();
+               
             }
-            
-           
+            Console.ReadKey();
+
         }
     }
 }

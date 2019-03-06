@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\Ej-ColaCircular\Ej-ColaCircular\bin\Debug\Ej-ColaCircular.exe.config
+C:\Users\Estudiante\source\repos\Ej-ColaCircular\Ej-ColaCircular\bin\Debug\Ej-ColaCircular.exe
+C:\Users\Estudiante\source\repos\Ej-ColaCircular\Ej-ColaCircular\bin\Debug\Ej-ColaCircular.pdb
+C:\Users\Estudiante\source\repos\Ej-ColaCircular\Ej-ColaCircular\obj\Debug\Ej-ColaCircular.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\Ej-ColaCircular\Ej-ColaCircular\obj\Debug\Ej-ColaCircular.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Ej-ColaCircular\Ej-ColaCircular\obj\Debug\Ej-ColaCircular.exe
+C:\Users\Estudiante\source\repos\Ej-ColaCircular\Ej-ColaCircular\obj\Debug\Ej-ColaCircular.pdb

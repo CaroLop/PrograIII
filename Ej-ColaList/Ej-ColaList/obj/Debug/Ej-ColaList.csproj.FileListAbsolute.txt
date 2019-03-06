@@ -5,3 +5,10 @@ C:\Users\Loquillo\source\repos\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.csp
 C:\Users\Loquillo\source\repos\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.csproj.CoreCompileInputs.cache
 C:\Users\Loquillo\source\repos\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.exe
 C:\Users\Loquillo\source\repos\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.pdb
+C:\Users\Estudiante\PrograIII\Ej-ColaList\Ej-ColaList\bin\Debug\Ej-ColaList.exe.config
+C:\Users\Estudiante\PrograIII\Ej-ColaList\Ej-ColaList\bin\Debug\Ej-ColaList.exe
+C:\Users\Estudiante\PrograIII\Ej-ColaList\Ej-ColaList\bin\Debug\Ej-ColaList.pdb
+C:\Users\Estudiante\PrograIII\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.csprojAssemblyReference.cache
+C:\Users\Estudiante\PrograIII\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\PrograIII\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.exe
+C:\Users\Estudiante\PrograIII\Ej-ColaList\Ej-ColaList\obj\Debug\Ej-ColaList.pdb
