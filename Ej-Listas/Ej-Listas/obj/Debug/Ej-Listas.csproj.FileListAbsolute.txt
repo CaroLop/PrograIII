@@ -5,3 +5,10 @@ C:\Users\Estudiante\source\repos\Ej-Listas\Ej-Listas\obj\Debug\Ej-Listas.csprojA
 C:\Users\Estudiante\source\repos\Ej-Listas\Ej-Listas\obj\Debug\Ej-Listas.csproj.CoreCompileInputs.cache
 C:\Users\Estudiante\source\repos\Ej-Listas\Ej-Listas\obj\Debug\Ej-Listas.exe
 C:\Users\Estudiante\source\repos\Ej-Listas\Ej-Listas\obj\Debug\Ej-Listas.pdb
+C:\Users\Loquillo\PrograIII\Ej-Listas\Ej-Listas\bin\Debug\Ej-Listas.exe.config
+C:\Users\Loquillo\PrograIII\Ej-Listas\Ej-Listas\bin\Debug\Ej-Listas.exe
+C:\Users\Loquillo\PrograIII\Ej-Listas\Ej-Listas\bin\Debug\Ej-Listas.pdb
+C:\Users\Loquillo\PrograIII\Ej-Listas\Ej-Listas\obj\Debug\Ej-Listas.csprojAssemblyReference.cache
+C:\Users\Loquillo\PrograIII\Ej-Listas\Ej-Listas\obj\Debug\Ej-Listas.csproj.CoreCompileInputs.cache
+C:\Users\Loquillo\PrograIII\Ej-Listas\Ej-Listas\obj\Debug\Ej-Listas.exe
+C:\Users\Loquillo\PrograIII\Ej-Listas\Ej-Listas\obj\Debug\Ej-Listas.pdb

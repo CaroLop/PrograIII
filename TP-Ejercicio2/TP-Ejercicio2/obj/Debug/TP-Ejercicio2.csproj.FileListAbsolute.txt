@@ -1,0 +1,7 @@
+C:\Users\Loquillo\source\repos\TP-Ejercicio2\TP-Ejercicio2\bin\Debug\TP-Ejercicio2.exe.config
+C:\Users\Loquillo\source\repos\TP-Ejercicio2\TP-Ejercicio2\bin\Debug\TP-Ejercicio2.exe
+C:\Users\Loquillo\source\repos\TP-Ejercicio2\TP-Ejercicio2\bin\Debug\TP-Ejercicio2.pdb
+C:\Users\Loquillo\source\repos\TP-Ejercicio2\TP-Ejercicio2\obj\Debug\TP-Ejercicio2.csprojAssemblyReference.cache
+C:\Users\Loquillo\source\repos\TP-Ejercicio2\TP-Ejercicio2\obj\Debug\TP-Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Loquillo\source\repos\TP-Ejercicio2\TP-Ejercicio2\obj\Debug\TP-Ejercicio2.exe
+C:\Users\Loquillo\source\repos\TP-Ejercicio2\TP-Ejercicio2\obj\Debug\TP-Ejercicio2.pdb
