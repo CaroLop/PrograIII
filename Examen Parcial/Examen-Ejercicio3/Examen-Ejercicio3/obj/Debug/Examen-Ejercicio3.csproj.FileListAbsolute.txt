@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\Examen-Ejercicio3\Examen-Ejercicio3\bin\Debug\Examen-Ejercicio3.exe.config
+C:\Users\Estudiante\source\repos\Examen-Ejercicio3\Examen-Ejercicio3\bin\Debug\Examen-Ejercicio3.exe
+C:\Users\Estudiante\source\repos\Examen-Ejercicio3\Examen-Ejercicio3\bin\Debug\Examen-Ejercicio3.pdb
+C:\Users\Estudiante\source\repos\Examen-Ejercicio3\Examen-Ejercicio3\obj\Debug\Examen-Ejercicio3.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\Examen-Ejercicio3\Examen-Ejercicio3\obj\Debug\Examen-Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Examen-Ejercicio3\Examen-Ejercicio3\obj\Debug\Examen-Ejercicio3.exe
+C:\Users\Estudiante\source\repos\Examen-Ejercicio3\Examen-Ejercicio3\obj\Debug\Examen-Ejercicio3.pdb

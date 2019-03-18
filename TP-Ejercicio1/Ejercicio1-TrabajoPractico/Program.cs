@@ -37,7 +37,7 @@ namespace Ejercicio1_TrabajoPractico
                         c = Console.ReadLine();
                         alumno = new Alumno(a, e, s,c);
                         p.Push(alumno);
-                        i++;
+                        
                         break;
 
                     case 2:
