@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\ClienteFactorial\ClienteFactorial\bin\Debug\ClienteFactorial.exe.config
+C:\Users\Estudiante\source\repos\ClienteFactorial\ClienteFactorial\bin\Debug\ClienteFactorial.exe
+C:\Users\Estudiante\source\repos\ClienteFactorial\ClienteFactorial\bin\Debug\ClienteFactorial.pdb
+C:\Users\Estudiante\source\repos\ClienteFactorial\ClienteFactorial\obj\Debug\ClienteFactorial.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\ClienteFactorial\ClienteFactorial\obj\Debug\ClienteFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\ClienteFactorial\ClienteFactorial\obj\Debug\ClienteFactorial.exe
+C:\Users\Estudiante\source\repos\ClienteFactorial\ClienteFactorial\obj\Debug\ClienteFactorial.pdb

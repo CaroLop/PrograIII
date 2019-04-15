@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\ServidorFr\ServidorFr\bin\Debug\ServidorFr.exe.config
+C:\Users\Estudiante\source\repos\ServidorFr\ServidorFr\bin\Debug\ServidorFr.exe
+C:\Users\Estudiante\source\repos\ServidorFr\ServidorFr\bin\Debug\ServidorFr.pdb
+C:\Users\Estudiante\source\repos\ServidorFr\ServidorFr\obj\Debug\ServidorFr.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\ServidorFr\ServidorFr\obj\Debug\ServidorFr.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\ServidorFr\ServidorFr\obj\Debug\ServidorFr.exe
+C:\Users\Estudiante\source\repos\ServidorFr\ServidorFr\obj\Debug\ServidorFr.pdb
