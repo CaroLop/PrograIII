@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\ClienteChatform\ClienteChatform\bin\Debug\ClienteChatform.exe.config
+C:\Users\Estudiante\source\repos\ClienteChatform\ClienteChatform\bin\Debug\ClienteChatform.exe
+C:\Users\Estudiante\source\repos\ClienteChatform\ClienteChatform\bin\Debug\ClienteChatform.pdb
+C:\Users\Estudiante\source\repos\ClienteChatform\ClienteChatform\obj\Debug\ClienteChatform.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\ClienteChatform\ClienteChatform\obj\Debug\ClienteChatform.Form1.resources
+C:\Users\Estudiante\source\repos\ClienteChatform\ClienteChatform\obj\Debug\ClienteChatform.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\ClienteChatform\ClienteChatform\obj\Debug\ClienteChatform.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\ClienteChatform\ClienteChatform\obj\Debug\ClienteChatform.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\ClienteChatform\ClienteChatform\obj\Debug\ClienteChatform.exe
+C:\Users\Estudiante\source\repos\ClienteChatform\ClienteChatform\obj\Debug\ClienteChatform.pdb
