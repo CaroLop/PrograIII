@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\TresEnRayaServidor\TresEnRayaServidor\bin\Debug\TresEnRayaServidor.exe.config
+C:\Users\Estudiante\source\TresEnRayaServidor\TresEnRayaServidor\bin\Debug\TresEnRayaServidor.exe
+C:\Users\Estudiante\source\TresEnRayaServidor\TresEnRayaServidor\bin\Debug\TresEnRayaServidor.pdb
+C:\Users\Estudiante\source\TresEnRayaServidor\TresEnRayaServidor\obj\Debug\TresEnRayaServidor.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\TresEnRayaServidor\TresEnRayaServidor\obj\Debug\TresEnRayaServidor.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\TresEnRayaServidor\TresEnRayaServidor\obj\Debug\TresEnRayaServidor.exe
+C:\Users\Estudiante\source\TresEnRayaServidor\TresEnRayaServidor\obj\Debug\TresEnRayaServidor.pdb

@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\TresEnRayaCliente\TresEnRayaCliente\bin\Debug\TresEnRayaCliente.exe.config
+C:\Users\Estudiante\source\TresEnRayaCliente\TresEnRayaCliente\bin\Debug\TresEnRayaCliente.exe
+C:\Users\Estudiante\source\TresEnRayaCliente\TresEnRayaCliente\bin\Debug\TresEnRayaCliente.pdb
+C:\Users\Estudiante\source\TresEnRayaCliente\TresEnRayaCliente\obj\Debug\TresEnRayaCliente.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\TresEnRayaCliente\TresEnRayaCliente\obj\Debug\TresEnRayaCliente.Form1.resources
+C:\Users\Estudiante\source\TresEnRayaCliente\TresEnRayaCliente\obj\Debug\TresEnRayaCliente.Properties.Resources.resources
+C:\Users\Estudiante\source\TresEnRayaCliente\TresEnRayaCliente\obj\Debug\TresEnRayaCliente.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\TresEnRayaCliente\TresEnRayaCliente\obj\Debug\TresEnRayaCliente.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\TresEnRayaCliente\TresEnRayaCliente\obj\Debug\TresEnRayaCliente.exe
+C:\Users\Estudiante\source\TresEnRayaCliente\TresEnRayaCliente\obj\Debug\TresEnRayaCliente.pdb
