@@ -67,30 +67,30 @@ namespace ExpresionesPolacas
             foreach (String a in ExpresionPolaca)
             {
                 Console.Write("" + a);
+                Expresion = a;
             }
             
             return "";
         }
         public String EvaluarPolaca()
         {
-            for (int i = 0; i < Expresion.Length; i++)
-            { 
-                foreach (char cadena in Expresion)
+            
+                foreach (String cadena in ExpresionPolaca)
                 {
-                    
-                    if (cadena == '*' || cadena == '/' || cadena == '-' || cadena == '+')
+                
+                if (cadena == "*" || cadena == "/" || cadena == "-" || cadena == "+")
                     {
                         int res = Operaciones(Convert.ToInt16(Pila.Pop()), Convert.ToInt16(Pila.Pop()), cadena);
                         Pila.Push(res.ToString());
                     }
-                    else if (cadena == '0' || cadena == '1' || cadena == '2' || cadena == '3' || cadena == '4' || cadena == '5' || cadena == '6' || cadena == '7' || cadena == '8' || cadena == '9')
+                    else if (cadena == "0" || cadena == "1" || cadena == "2" || cadena == "3" || cadena == "4" || cadena == "5" || cadena == "6" || cadena == "7" || cadena == "8" || cadena == "9")
                     {
                         int res = Convert.ToInt16(cadena);
                         Pila.Push(res.ToString());
                     }
-
+                
                 }
-            }
+            
             return Pila.Pop();
         }
 
@@ -114,17 +114,17 @@ namespace ExpresionesPolacas
             }
             return true;
         }
-        private int Operaciones(int a, int b, char c)
+        private int Operaciones(int a, int b, String c)
         {
             switch(c)
             {
-                case '+':
+                case "+":
                     return a + b;
-                case '-':
+                case "-":
                     return b - a;
-                case '*':
+                case "*":
                     return b * a;
-                case '/':
+                case "/":
                     return b / a;
                 default:
                     return -1;

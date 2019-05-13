@@ -15,7 +15,7 @@ namespace ExpresionesPolacas
             Expresion = Console.ReadLine();
             Evaluacion ev = new Evaluacion(Expresion);
             ev.CrearPolaca();
-         // Console.WriteLine("\nSolucion: "+ev.EvaluarPolaca());
+         Console.WriteLine("\nSolucion: "+ev.EvaluarPolaca());
             Console.ReadKey();
 
         }

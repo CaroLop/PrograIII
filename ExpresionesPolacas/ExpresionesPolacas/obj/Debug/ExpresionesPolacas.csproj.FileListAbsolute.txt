@@ -5,3 +5,10 @@ C:\Users\Loquillo\PrograIII\ExpresionesPolacas\ExpresionesPolacas\bin\Debug\Expr
 C:\Users\Loquillo\PrograIII\ExpresionesPolacas\ExpresionesPolacas\bin\Debug\ExpresionesPolacas.pdb
 C:\Users\Loquillo\PrograIII\ExpresionesPolacas\ExpresionesPolacas\obj\Debug\ExpresionesPolacas.exe
 C:\Users\Loquillo\PrograIII\ExpresionesPolacas\ExpresionesPolacas\obj\Debug\ExpresionesPolacas.pdb
+C:\Users\Estudiante\PrograIII\ExpresionesPolacas\ExpresionesPolacas\bin\Debug\ExpresionesPolacas.exe.config
+C:\Users\Estudiante\PrograIII\ExpresionesPolacas\ExpresionesPolacas\bin\Debug\ExpresionesPolacas.exe
+C:\Users\Estudiante\PrograIII\ExpresionesPolacas\ExpresionesPolacas\bin\Debug\ExpresionesPolacas.pdb
+C:\Users\Estudiante\PrograIII\ExpresionesPolacas\ExpresionesPolacas\obj\Debug\ExpresionesPolacas.csprojAssemblyReference.cache
+C:\Users\Estudiante\PrograIII\ExpresionesPolacas\ExpresionesPolacas\obj\Debug\ExpresionesPolacas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\PrograIII\ExpresionesPolacas\ExpresionesPolacas\obj\Debug\ExpresionesPolacas.exe
+C:\Users\Estudiante\PrograIII\ExpresionesPolacas\ExpresionesPolacas\obj\Debug\ExpresionesPolacas.pdb
