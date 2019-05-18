@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\SocketsNum\SocketsNum\bin\Debug\SocketsNum.exe.config
+C:\Users\Estudiante\source\repos\SocketsNum\SocketsNum\bin\Debug\SocketsNum.exe
+C:\Users\Estudiante\source\repos\SocketsNum\SocketsNum\bin\Debug\SocketsNum.pdb
+C:\Users\Estudiante\source\repos\SocketsNum\SocketsNum\obj\Debug\SocketsNum.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\SocketsNum\SocketsNum\obj\Debug\SocketsNum.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\SocketsNum\SocketsNum\obj\Debug\SocketsNum.exe
+C:\Users\Estudiante\source\repos\SocketsNum\SocketsNum\obj\Debug\SocketsNum.pdb

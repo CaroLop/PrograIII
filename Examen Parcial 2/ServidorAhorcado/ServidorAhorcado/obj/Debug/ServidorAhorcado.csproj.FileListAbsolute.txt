@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\ServidorAhorcado\ServidorAhorcado\bin\Debug\ServidorAhorcado.exe.config
+C:\Users\Estudiante\source\repos\ServidorAhorcado\ServidorAhorcado\bin\Debug\ServidorAhorcado.exe
+C:\Users\Estudiante\source\repos\ServidorAhorcado\ServidorAhorcado\bin\Debug\ServidorAhorcado.pdb
+C:\Users\Estudiante\source\repos\ServidorAhorcado\ServidorAhorcado\obj\Debug\ServidorAhorcado.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\ServidorAhorcado\ServidorAhorcado\obj\Debug\ServidorAhorcado.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\ServidorAhorcado\ServidorAhorcado\obj\Debug\ServidorAhorcado.exe
+C:\Users\Estudiante\source\repos\ServidorAhorcado\ServidorAhorcado\obj\Debug\ServidorAhorcado.pdb
