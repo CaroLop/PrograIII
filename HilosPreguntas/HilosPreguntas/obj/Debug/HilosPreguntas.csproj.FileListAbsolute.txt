@@ -1,0 +1,7 @@
+C:\Users\Estudiante\source\repos\HilosPreguntas\HilosPreguntas\bin\Debug\HilosPreguntas.exe.config
+C:\Users\Estudiante\source\repos\HilosPreguntas\HilosPreguntas\bin\Debug\HilosPreguntas.exe
+C:\Users\Estudiante\source\repos\HilosPreguntas\HilosPreguntas\bin\Debug\HilosPreguntas.pdb
+C:\Users\Estudiante\source\repos\HilosPreguntas\HilosPreguntas\obj\Debug\HilosPreguntas.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\HilosPreguntas\HilosPreguntas\obj\Debug\HilosPreguntas.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\HilosPreguntas\HilosPreguntas\obj\Debug\HilosPreguntas.exe
+C:\Users\Estudiante\source\repos\HilosPreguntas\HilosPreguntas\obj\Debug\HilosPreguntas.pdb
