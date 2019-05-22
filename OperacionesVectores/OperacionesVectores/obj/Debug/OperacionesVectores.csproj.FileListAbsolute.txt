@@ -1,0 +1,9 @@
+C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\bin\Debug\OperacionesVectores.exe.config
+C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\bin\Debug\OperacionesVectores.exe
+C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\bin\Debug\OperacionesVectores.pdb
+C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.MostarOperacion.resources
+C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.exe
+C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.pdb
