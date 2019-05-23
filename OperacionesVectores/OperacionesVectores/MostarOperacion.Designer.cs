@@ -33,11 +33,14 @@
             // 
             // lbxmostarop
             // 
+            this.lbxmostarop.Cursor = System.Windows.Forms.Cursors.Default;
             this.lbxmostarop.FormattingEnabled = true;
             this.lbxmostarop.Location = new System.Drawing.Point(12, 12);
+            this.lbxmostarop.MultiColumn = true;
             this.lbxmostarop.Name = "lbxmostarop";
-            this.lbxmostarop.Size = new System.Drawing.Size(364, 186);
+            this.lbxmostarop.Size = new System.Drawing.Size(375, 186);
             this.lbxmostarop.TabIndex = 0;
+            this.lbxmostarop.SelectedIndexChanged += new System.EventHandler(this.lbxmostarop_SelectedIndexChanged);
             // 
             // MostarOperacion
             // 
@@ -47,6 +50,7 @@
             this.Controls.Add(this.lbxmostarop);
             this.Name = "MostarOperacion";
             this.Text = "MostarOperacion";
+            this.Load += new System.EventHandler(this.MostarOperacion_Load);
             this.ResumeLayout(false);
 
         }

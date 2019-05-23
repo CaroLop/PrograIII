@@ -2,20 +2,21 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace OperacionesVectores
 {
     class Program
     {
+       
         static void Main(string[] args)
         {
-            MostarOperacion MO = new MostarOperacion();
+            Console.WriteLine("Introduzca la longitud de los vectores");
+            int x = int.Parse(Console.ReadLine());
             Console.WriteLine("Introduzca los Vectores");
-            double[] a = new double[3];
-            double[] b = new double[3];
-           // if (Console.ReadLine()!=null)
-           // {
+
+            double[] a = new double[x];
+            double[] b = new double[x];
                 for(int i=0;i<a.Length;i++)
                 {
                     a[i] = int.Parse(Console.ReadLine());
@@ -26,21 +27,22 @@ namespace OperacionesVectores
                     b[i] = int.Parse(Console.ReadLine());
                    
                 }
-           // }
             Vector vct = new Vector(a, b);
-            Console.WriteLine("Digite una opcion");
-            Console.WriteLine("1. Suma");
-            Console.WriteLine("2. Resta");
-            Console.WriteLine("3. Multiplicar");
-            int op = int.Parse(Console.ReadLine());
+            int op = 0;
             String Opcion ="";
-            do
+            MostarOperacion Mo = new MostarOperacion();
+                       do
             {
+                Console.WriteLine("Digite una opcion");
+                Console.WriteLine("1. Suma");
+                Console.WriteLine("2. Resta");
+                Console.WriteLine("3. Multiplicar");
+                op = int.Parse(Console.ReadLine());
                 Console.Clear();
-                switch(op)
+                switch (op)
                 {
                     case 1:
-                        Opcion = "Suma";
+                        Opcion = "Suma";        
                         vct.Mostrar(Opcion);
                         break;
                     case 2:
@@ -52,8 +54,9 @@ namespace OperacionesVectores
                        vct.Mostrar(Opcion);
                         break;
                 }
+                
             } while (op==4);
-            MO.Show();
+         
             Console.ReadKey();
             
         }

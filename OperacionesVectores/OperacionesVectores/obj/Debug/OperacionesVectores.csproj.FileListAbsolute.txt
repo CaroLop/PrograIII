@@ -7,3 +7,12 @@ C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\obj\Deb
 C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.csproj.CoreCompileInputs.cache
 C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.exe
 C:\Users\Estudiante\source\repos\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.pdb
+C:\Users\Loquillo\PrograIII\OperacionesVectores\OperacionesVectores\bin\Debug\OperacionesVectores.exe.config
+C:\Users\Loquillo\PrograIII\OperacionesVectores\OperacionesVectores\bin\Debug\OperacionesVectores.exe
+C:\Users\Loquillo\PrograIII\OperacionesVectores\OperacionesVectores\bin\Debug\OperacionesVectores.pdb
+C:\Users\Loquillo\PrograIII\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.csprojAssemblyReference.cache
+C:\Users\Loquillo\PrograIII\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.MostarOperacion.resources
+C:\Users\Loquillo\PrograIII\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.csproj.GenerateResource.cache
+C:\Users\Loquillo\PrograIII\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.csproj.CoreCompileInputs.cache
+C:\Users\Loquillo\PrograIII\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.exe
+C:\Users\Loquillo\PrograIII\OperacionesVectores\OperacionesVectores\obj\Debug\OperacionesVectores.pdb

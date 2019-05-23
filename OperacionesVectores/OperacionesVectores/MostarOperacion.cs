@@ -14,7 +14,16 @@ namespace OperacionesVectores
     {
         public MostarOperacion()
         {
-            InitializeComponent();
+            InitializeComponent();       
+        }
+
+        public void lbxmostarop_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        public void MostarOperacion_Load(object sender, EventArgs e)
+        {
         }
     }
 }
