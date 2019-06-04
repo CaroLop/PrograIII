@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<TextView
+		android:text="Introduzca N"
+		android:layout_width="100.5dp"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/textView1" />
+	<EditText
+		android:layout_below="@+id/textView1"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:id="@+id/txtN"
+		/>
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/txtN"
+		android:text="Calcular"
+		android:id="@+id/btncalcular"
+		/>
+	<RadioButton
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/btncalcular"
+		android:id="@+id/rbtnsumatoria"
+		android:text="Sumatoria"
+	/>
+	<RadioButton
+		android:text="Factorial"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/rbtnsumatoria"
+		android:id="@+id/rbtnfactorial"
+	/>
+	<TextView
+		android:text=" "
+		android:layout_below="@+id/rbtnfactorial"
+		android:id="@+id/txtresultado"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+	/>
+</RelativeLayout>
