@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<Button
+		android:text="Insertar"
+		android:id="@+id/btnInsertar"
+		android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+		/>
+		<Button
+	android:id="@+id/btnEliminar"
+	android:layout_below="@+id/btnInsertar"
+		android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+		android:text="Eliminar"
+	/>
+	<Button
+		android:text="Mostrar"
+		android:id="@+id/btnMostar"
+		android:layout_below="@+id/btnEliminar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+	/>
+
+</RelativeLayout>
