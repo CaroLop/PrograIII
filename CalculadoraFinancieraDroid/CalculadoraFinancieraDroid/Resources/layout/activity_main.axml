@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+	<TextView
+		android:text="Introduzca n"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/txtN" />
+	<EditText
+		android:text=""
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/txtN"
+		android:id="@+id/textVN" />
+	<Button
+		android:text="Crear"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/textVN"
+		android:id="@+id/btnObtener" />
+	<LinearLayout
+		android:orientation="vertical"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="300.0dp"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/btnObtener"
+		android:id="@+id/lTextos" />
+	<Button
+		android:text="Calcular"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/lTextos"
+		android:id="@+id/btnCalcular" />
+	<TextView
+		android:text="--"
+		android:textAppearance="?android:attr/textAppearanceLarge"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/btnCalcular"
+		android:id="@+id/txtVAN" />
+</RelativeLayout>
