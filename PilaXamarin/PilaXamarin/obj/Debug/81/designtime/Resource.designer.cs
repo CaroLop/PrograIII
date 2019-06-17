@@ -2384,14 +2384,26 @@ namespace PilaXamarin
 			// aapt resource value: 0x7F0C001A
 			public const int bottom = 2131492890;
 			
+			// aapt resource value: 0x7F010010
+			public const int btnAgregar = 2130771984;
+			
+			// aapt resource value: 0x7F010006
+			public const int btnEliminado = 2130771974;
+			
 			// aapt resource value: 0x7F010003
 			public const int btnEliminar = 2130771971;
 			
 			// aapt resource value: 0x7F010002
 			public const int btnInsertar = 2130771970;
 			
+			// aapt resource value: 0x7F010012
+			public const int btnmostra = 2130771986;
+			
 			// aapt resource value: 0x7F010004
-			public const int btnMostar = 2130771972;
+			public const int btnMostrar = 2130771972;
+			
+			// aapt resource value: 0x7F010008
+			public const int btnsalir = 2130771976;
 			
 			// aapt resource value: 0x7F0C001B
 			public const int buttonPanel = 2131492891;
@@ -2495,6 +2507,9 @@ namespace PilaXamarin
 			// aapt resource value: 0x7F0C003C
 			public const int largeLabel = 2131492924;
 			
+			// aapt resource value: 0x7F010007
+			public const int lbleliminado = 2130771975;
+			
 			// aapt resource value: 0x7F0C003D
 			public const int left = 2131492925;
 			
@@ -2506,6 +2521,9 @@ namespace PilaXamarin
 			
 			// aapt resource value: 0x7F0C0040
 			public const int listMode = 2131492928;
+			
+			// aapt resource value: 0x7F010011
+			public const int listMostrar = 2130771985;
 			
 			// aapt resource value: 0x7F0C0041
 			public const int list_item = 2131492929;
@@ -2693,6 +2711,9 @@ namespace PilaXamarin
 			// aapt resource value: 0x7F0C007C
 			public const int textSpacerNoTitle = 2131492988;
 			
+			// aapt resource value: 0x7F010005
+			public const int textView1 = 2130771973;
+			
 			// aapt resource value: 0x7F0C007D
 			public const int text_input_password_toggle = 2131492989;
 			
@@ -2731,6 +2752,9 @@ namespace PilaXamarin
 			
 			// aapt resource value: 0x7F0C008B
 			public const int transition_transform = 2131493003;
+			
+			// aapt resource value: 0x7F010009
+			public const int txtintroducir = 2130771977;
 			
 			// aapt resource value: 0x7F0C008C
 			public const int uniform = 2131493004;
@@ -2927,13 +2951,13 @@ namespace PilaXamarin
 			public const int design_text_input_password_icon = 2131689512;
 			
 			// aapt resource value: 0x7F020003
-			public const int layout1 = 2130837507;
+			public const int Eliminar = 2130837507;
 			
 			// aapt resource value: 0x7F020004
-			public const int layout2 = 2130837508;
+			public const int InsertaLO = 2130837508;
 			
 			// aapt resource value: 0x7F020005
-			public const int layout3 = 2130837509;
+			public const int Mostrar = 2130837509;
 			
 			// aapt resource value: 0x7F0F0001
 			public const int notification_action = 2131689473;

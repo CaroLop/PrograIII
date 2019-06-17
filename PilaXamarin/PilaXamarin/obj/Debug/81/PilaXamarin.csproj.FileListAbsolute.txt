@@ -1,0 +1,201 @@
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.nuget.stamp
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.csprojAssemblyReference.cache
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\libraryimports.cache.stamp
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res.flag
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.csproj.CoreCompileInputs.cache
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.dll
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.PilaXamarin.apk
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.PilaXamarin-Signed.apk
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.dll
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\android\bin\PilaXamarin.PilaXamarin.apk
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\activity_main.xml
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\colors.xml
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\strings.xml
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\styles.xml
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\insertalo.xml
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\eliminar.xml
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\mostrar.xml
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\R.cs.flag
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\R.txt
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\uploadflags.txt
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\Mono.Android.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\mscorlib.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\System.Core.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\System.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\System.Xml.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\System.Net.Http.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\System.Runtime.Serialization.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\System.ServiceModel.Internals.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\bin\Debug\Mono.Security.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\PilaXamarin.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\mscorlib.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Core.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Xml.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\LaTorre\FINAL\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\PilaXamarin.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.csprojAssemblyReference.cache
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.dll
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.dll
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.PilaXamarin.apk
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.PilaXamarin-Signed.apk
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.nuget.stamp
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\libraryimports.cache.stamp
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res.flag
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.csproj.CoreCompileInputs.cache
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\android\bin\PilaXamarin.PilaXamarin.apk
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\activity_main.xml
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\colors.xml
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\ic_launcher_background.xml
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\strings.xml
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\styles.xml
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\insertalo.xml
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\eliminar.xml
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\mostrar.xml
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\R.cs.flag
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\R.txt
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\uploadflags.txt
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\Mono.Android.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\Mono.Security.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\mscorlib.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\System.Core.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\System.Net.Http.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\System.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\System.Runtime.Serialization.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\System.ServiceModel.Internals.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\bin\Debug\System.Xml.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\PilaXamarin.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\Mono.Android.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\mscorlib.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Core.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Xml.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Net.Http.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\Mono.Security.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\Mono.Android.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\Mono.Security.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\mscorlib.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\PilaXamarin.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.Core.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.Net.Http.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+D:\3er semestre\finalprogra\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.Xml.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.csprojAssemblyReference.cache
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\libraryimports.cache.stamp
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res.flag
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.dll
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.dll
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.PilaXamarin.apk
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\PilaXamarin.PilaXamarin-Signed.apk
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.nuget.stamp
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\PilaXamarin.csproj.CoreCompileInputs.cache
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\android\bin\PilaXamarin.PilaXamarin.apk
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\activity_main.xml
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\colors.xml
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\ic_launcher_background.xml
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\strings.xml
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\values\styles.xml
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher.xml
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-anydpi-v26\ic_launcher_round.xml
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-hdpi\ic_launcher.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-hdpi\ic_launcher_foreground.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-hdpi\ic_launcher_round.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-mdpi\ic_launcher.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-mdpi\ic_launcher_foreground.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-mdpi\ic_launcher_round.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_foreground.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xhdpi\ic_launcher_round.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_foreground.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxhdpi\ic_launcher_round.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_foreground.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\insertalo.xml
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\eliminar.xml
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\res\layout\mostrar.xml
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\R.cs.flag
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\R.txt
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\uploadflags.txt
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\Mono.Android.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\Mono.Security.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\mscorlib.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\System.Core.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\System.Net.Http.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\System.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\bin\Debug\System.Xml.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\PilaXamarin.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\Mono.Android.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\mscorlib.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Core.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Xml.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Net.Http.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\linksrc\Mono.Security.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\Mono.Android.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\Mono.Security.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\mscorlib.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\PilaXamarin.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.Core.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.Net.Http.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\INFO. COMPUTERS\PrograIII\PilaXamarin\PilaXamarin\obj\Debug\81\android\assets\System.Xml.pdb

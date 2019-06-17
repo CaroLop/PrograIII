@@ -12,12 +12,11 @@ using Android.Widget;
 
 namespace PilaXamarin
 {
-    class Pila<T>
+    public class Pila<T>
     {
         public const int Maximo = 10;
         private T[] arreglo = new T[Maximo];
         private int tope = -1;
-        public static Pila<T> Instancia;
         public void push(T valor)
         {
             if (!LLena())
@@ -25,8 +24,7 @@ namespace PilaXamarin
                 tope++;
                 arreglo[tope] = valor;
             }
-            else
-                Console.WriteLine("La Pila esta llena");
+            
         }
         public T pop()
         {
@@ -37,14 +35,16 @@ namespace PilaXamarin
             }
             else
             {
-                Console.WriteLine("La Pila esta vacia");
+               
                 return arreglo[tope + 1];
             }
         }
-        public void mostrar()
+        public T[] mostrar()
         {
-            for (int i = 0; i <= tope; i++)
-                Console.Write(arreglo[i] + " ");
+            T[] aux = new T[tope + 1];
+            for (int i = 0; i < tope; i++)
+                aux[i] = arreglo[i];
+            return aux;
 
         }
         private Boolean Vacia()
@@ -55,13 +55,6 @@ namespace PilaXamarin
         {
             return tope == Maximo;
         }
-        public static Pila<T> getInstancia() //singleton
-        {
-            if (Instancia == null)
-            {
-                Instancia = new Pila<T>();
-            }
-            return Instancia;
-        }
+        
     }
 }
