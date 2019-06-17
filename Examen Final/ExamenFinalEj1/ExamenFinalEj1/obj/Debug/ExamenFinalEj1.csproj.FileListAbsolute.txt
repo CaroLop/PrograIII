@@ -1,0 +1,10 @@
+C:\Users\Estudiante\source\repos\ExamenFinalEj1\ExamenFinalEj1\bin\Debug\ExamenFinalEj1.exe.config
+C:\Users\Estudiante\source\repos\ExamenFinalEj1\ExamenFinalEj1\bin\Debug\ExamenFinalEj1.exe
+C:\Users\Estudiante\source\repos\ExamenFinalEj1\ExamenFinalEj1\bin\Debug\ExamenFinalEj1.pdb
+C:\Users\Estudiante\source\repos\ExamenFinalEj1\ExamenFinalEj1\obj\Debug\ExamenFinalEj1.csprojAssemblyReference.cache
+C:\Users\Estudiante\source\repos\ExamenFinalEj1\ExamenFinalEj1\obj\Debug\ExamenFinalEj1.Form1.resources
+C:\Users\Estudiante\source\repos\ExamenFinalEj1\ExamenFinalEj1\obj\Debug\ExamenFinalEj1.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\ExamenFinalEj1\ExamenFinalEj1\obj\Debug\ExamenFinalEj1.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\ExamenFinalEj1\ExamenFinalEj1\obj\Debug\ExamenFinalEj1.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\ExamenFinalEj1\ExamenFinalEj1\obj\Debug\ExamenFinalEj1.exe
+C:\Users\Estudiante\source\repos\ExamenFinalEj1\ExamenFinalEj1\obj\Debug\ExamenFinalEj1.pdb

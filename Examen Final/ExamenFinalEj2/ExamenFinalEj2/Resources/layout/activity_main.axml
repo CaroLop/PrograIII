@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:scrollIndicators="right">
+	<TextView
+		android:text="Registro de Compra"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:id="@+id/textView1" />
+	<EditText
+		android:text="Nro de Pedido"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_below="@+id/textView1"
+		android:id="@+id/txtNrodePedido"/>
+	<EditText
+		android:text="Monto"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_below="@+id/txtNrodePedido"
+		android:id="@+id/txtMonto"/>
+	<EditText
+		android:text="Tipo de Pedido"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_below="@+id/txtMonto"
+		android:id="@+id/txtPedido"/>
+	<EditText
+		android:text="Hora del pedido"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_below="@+id/txtPedido"
+		android:id="@+id/txtHRaPedido"/>
+	<EditText
+		android:text="Hora de Entrega"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_below="@+id/txtHRaPedido"
+		android:id="@+id/txtHRaentrga"/>
+	<Button
+		android:text="Registrar"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/txtHRaentrga"
+		android:id="@+id/btnRegistrar"/>
+	<Button
+		android:text="Listados"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_below="@+id/btnRegistrar"
+		android:id="@+id/btnNuevo"/>
+</RelativeLayout>
